@@ -3008,11 +3008,7 @@ Prav tako je priporočeno, da nastavite alernotify, tkako da vas opozori na prob
 na primer: alertnotify=echo %%s | mail -s &quot;BillaryCoin Alarm&quot; admin@foo.com
 </translation>
     </message>
-    <message>
-        <location line="+51"/>
-        <source>Find peers using internet relay chat (default: 0)</source>
-        <translation>Najdi soležnike prek irca (privzeto: 0)</translation>
-    </message>
+
     <message>
         <location line="+5"/>
         <source>Sync time with other nodes. Disable if time on your system is precise e.g. syncing with NTP (default: 1)</source>
